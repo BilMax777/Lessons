@@ -3,3 +3,6 @@ for i in nem:
     if i ==2 or i == 5:
         print(str(i) + " число")
     print(i)
+
+
+print("конец")
